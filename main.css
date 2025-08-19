@@ -1,2 +1,2 @@
 /* Primary stylesheet for the San Joaquin Valley Town Hall website Author: Kowehn Murphy */
-.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
+h1 {color: blue;}
